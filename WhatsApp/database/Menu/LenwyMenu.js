@@ -48,7 +48,7 @@ globalThis.getOrderStats = function () {
 📑 *Information Bot*
 *Creator : Lenwy*
 *Contact : wa.me/6283829814737*
-*Youtube Channel : Lenwy*`),
+*Youtube Channel : Lenwy*\n`),
   // List Menu =========================
   (globalThis.storelist = `🎁 *Order Statistics*
 *Order : ${getOrderStats().totalOrders}*
@@ -57,3 +57,4 @@ globalThis.getOrderStats = function () {
 *Contoh : Order A2*
 
 📦 *Daftar Produk :*`));
+
